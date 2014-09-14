@@ -1,0 +1,6 @@
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb

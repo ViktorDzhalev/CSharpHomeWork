@@ -1,0 +1,6 @@
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache

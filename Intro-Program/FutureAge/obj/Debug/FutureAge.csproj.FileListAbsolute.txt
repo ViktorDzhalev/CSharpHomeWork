@@ -1,0 +1,6 @@
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\FutureAge\bin\Debug\FutureAge.exe.config
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\FutureAge\obj\Debug\FutureAge.csprojResolveAssemblyReference.cache
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\FutureAge\bin\Debug\FutureAge.exe
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\FutureAge\bin\Debug\FutureAge.pdb
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\FutureAge\obj\Debug\FutureAge.exe
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\FutureAge\obj\Debug\FutureAge.pdb

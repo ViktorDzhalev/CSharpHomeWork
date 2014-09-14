@@ -1,0 +1,6 @@
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\Sequence\bin\Debug\Sequence.exe.config
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\Sequence\obj\Debug\Sequence.csprojResolveAssemblyReference.cache
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\Sequence\bin\Debug\Sequence.exe
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\Sequence\bin\Debug\Sequence.pdb
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\Sequence\obj\Debug\Sequence.exe
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\Sequence\obj\Debug\Sequence.pdb

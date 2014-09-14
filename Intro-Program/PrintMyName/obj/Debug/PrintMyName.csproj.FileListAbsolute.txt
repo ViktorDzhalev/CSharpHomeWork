@@ -1,0 +1,5 @@
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\aleko\documents\visual studio 2013\Projects\Intro-Program\PrintMyName\obj\Debug\PrintMyName.pdb
